@@ -63,7 +63,7 @@ The results do not support the usual inverted-U EKC hypothesis for Bolivia in 19
 
 1. Download all repository files into one folder.
 2. Open `bolivia_analysis.do` in Stata 15.
-3. Change the `cd` command near the beginning of the file to the folder where the files were downloaded.
+3. In Stata, set the working directory to the folder containing the downloaded project files before running the do-file.
 4. Run the complete do-file.
 
 The do-file imports the source data, creates the final dataset, produces the EKC graph, and runs the OLS regression.
