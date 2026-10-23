@@ -9,7 +9,8 @@ clear all
 set more off
 
 * Set working directory
-cd "C:\Users\borac\OneDrive\Desktop\Bolivya_Midterm"
+* Before running this file, set Stata's working directory
+* to the folder containing the downloaded project files.
 
 *******************************************************
 * 1. IMPORT CO2 DATA
